@@ -1,0 +1,85 @@
+body {
+    padding-top: 40px;
+    background-color: #EDEEF0;
+}
+
+.starter-template {
+    padding: 20px 15px;
+    text-align: center;
+}
+.navbar-inverse {
+    background-color: #4A76A8;
+}
+
+h1 {
+    font-size: 47px;
+    margin-bottom: 53px;
+}
+table {
+    text-align: left;
+}
+.container {
+    margin-top: 50px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid;
+    width: 50px;
+}
+.starter-template {
+    padding: 20px 15px;
+    text-align: center;
+    width: 1160px;
+    margin-top: 50px;
+}
+h6 {
+    margin-top: 35px;
+    margin-bottom: 10px;
+    font-size: 23px;
+}
+div.thumbnail img {
+    max-height: 190px;
+}
+.thumbnail{
+    height: 380px;
+}
+div.form-inline form {
+    display: inline;
+}
+.item-1{
+    color: #1b1e21;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: -48px;
+}
+
+div.labels {
+    position: absolute;
+}
+
+div.labels span.badge {
+    display: block;
+}
+
+span.badge.badge-success {
+    color: #fff;
+    background-color: #28a745;
+}
+
+span.badge.badge-warning {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+span.badge.badge-danger {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+div.filters {
+    padding-bottom: 5px;
+}
