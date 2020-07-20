@@ -74,7 +74,6 @@
             </div>
         </div>
     </nav>
-
     <div class="py-4">
         <div class="container">
             <div class="row justify-content-center">
